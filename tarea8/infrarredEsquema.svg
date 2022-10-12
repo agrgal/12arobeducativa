@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="infrarredEsquema.svg"
+   inkscape:export-filename="/home/aurelio/Escritorio/proyectoRobotica/tarea8/IRWorks.png"
+   inkscape:export-xdpi="264.60001"
+   inkscape:export-ydpi="264.60001">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1163"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#339200;stroke-width:1pt;stroke-opacity:1;fill:#339200;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1161" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path876"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#339200;stroke-width:1pt;stroke-opacity:1;fill:#339200;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="458.29997"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g840">
+      <rect
+         y="53.205357"
+         x="17.386906"
+         height="25.324406"
+         width="45.357143"
+         id="rect815"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#030000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="12.675724"
+         rx="12.108761"
+         cy="65.867554"
+         cx="62.36607"
+         id="path817"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#030000;stroke-width:1.97295535;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-0.94494034,33.450894)"
+       id="g840-3"
+       style="fill:#ff8a8a;fill-opacity:1;stroke:none;stroke-opacity:1">
+      <rect
+         y="53.205357"
+         x="17.386906"
+         height="25.324406"
+         width="45.357143"
+         id="rect815-6"
+         style="opacity:1;vector-effect:none;fill:#ff8a8a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="12.675724"
+         rx="12.108761"
+         cy="65.867554"
+         cx="62.36607"
+         id="path817-7"
+         style="opacity:1;vector-effect:none;fill:#ff8a8a;fill-opacity:1;stroke:none;stroke-width:1.97295535;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#b2b8e5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect863"
+       width="17.008928"
+       height="105.45536"
+       x="177.27083"
+       y="32.794643" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.60766315px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34019157"
+       x="195.75304"
+       y="78.825386"
+       id="text867"
+       transform="scale(0.9812055,1.0191545)"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="79.344604"
+         y="195.23381"
+         style="writing-mode:tb-rl;text-orientation:upright;stroke-width:0.34019157">Objeto</tspan></text>
+    <path
+       style="fill:none;stroke:#339200;stroke-width:0.56444444;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 79.374999,99.696427 172.73512,87.601188"
+       id="path869"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#339200;stroke-width:0.56444444;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1163);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 172.73512,78.529761 81.642856,63.410713"
+       id="path871"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.065475"
+       y="121.61904"
+       id="text1544"><tspan
+         sodipodi:role="line"
+         id="tspan1542"
+         x="40.065475"
+         y="121.61904"
+         style="stroke-width:0.26458332">Emisor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.467258"
+       y="46.0238"
+       id="text1548"><tspan
+         sodipodi:role="line"
+         id="tspan1546"
+         x="43.467258"
+         y="46.0238"
+         style="stroke-width:0.26458332">Receptor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="143.96524"
+       y="39.737"
+       id="text1552"
+       transform="rotate(11.731595)"><tspan
+         sodipodi:role="line"
+         id="tspan1550"
+         x="143.96524"
+         y="39.737"
+         style="stroke-width:0.26458332">Luz infrarroja</tspan></text>
+  </g>
+</svg>
