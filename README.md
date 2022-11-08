@@ -54,10 +54,10 @@ IES Seritium
 -   Tras la narrativa encontramos el planteamiento del problema: qué hay que hacer y un ejemplo del resultado. En una fase posterior, estos ejemplos se sustituirán por las evidencias multimedia que el mismo alumnado consiga.
     -   Portfolio: sería interesante que el alumnado redactara algún tipo de documento online (blog, wiki) donde recogiera las evidencias de su trabajo (muy deseable en formato multimedia). Este portfolio debería incluir por cada tarea realizada una descripción del planteamiento, el diseño del algoritmo, el proceso lógico llevado a cabo para la obtención del programa final y evidencias del resultado, acompañados de las impresiones del propio alumnado.  
        -   En el apartado "proceso para llevar a cabo la tarea" el alumnado encontrará información de qué debe conocer para llevarla a cabo. Se ha intentado seguir el esquema DUA.
-	     -- MOTUS, elegido como símbolo de qué debes conocer. Explica los conceptos básicos necesarios en cada tarea y te ayuda a afrontar y resolver el problema planteado.
-    --   LUMEN, elegido como símbolo del proceso que debes seguir. Te explica o anima a conseguir un algoritmo (en pesudocódigo en forma de tabla o un diagrama de flujo (ver los ficheros adjuntos en evaluación) y te ayuda en el proceso lógico.
-    -- KARDIA te dice cuál debe ser tu actitud en cada tarea.
-    -- CLAVIS te da las claves para lograr el éxito en cada tarea.
+		     - MOTUS, elegido como símbolo de qué debes conocer. Explica los conceptos básicos necesarios en cada tarea y te ayuda a afrontar y resolver el problema planteado.
+		    -   LUMEN, elegido como símbolo del proceso que debes seguir. Te explica o anima a conseguir un algoritmo (en pesudocódigo en forma de tabla o un diagrama de flujo (ver los ficheros adjuntos en evaluación) y te ayuda en el proceso lógico.
+		    - KARDIA te dice cuál debe ser tu actitud en cada tarea.
+		    - CLAVIS te da las claves para lograr el éxito en cada tarea.
     -  En casi todas las tareas se plantea una actividad complementaria, o bien de refuerzo de lectura, de aprendizaje de algún concepto específico, de búsqueda e investigación.
 	- Acabadas las tareas, es interesante que el/la profesor/a plantee un proyecto al alumnado en el que se desarrollen los conceptos y habilidades aprendidos en las tareas y se fomente en el alumnado la imaginación y la creatividad.  
   - El profesorado encontrará en "los materiales para el profesorado" la documentación necesaria para su labor.
