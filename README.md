@@ -83,4 +83,4 @@ IES Seritium
 2.  Se publica este trabajo en la web del IES Seritium: [https://www.seritium.es/12arobedu/](https://www.seritium.es/12arobedu/)
     -   En algunas actividades de vídeos interactivos (tareas 5 y 9) se observa que _el vídeo no se visualiza a la primera_. Hay que recargar la página (función recargar en los navegadores).
 3.  No se observan fallos técnicos en la publicación como paquete SCORM/IMS en Moodle Centros.
-4.  Para una mejor visualización se recomienda ocultar los menús en cualquier caso.
+4.  Para una mejor visualización se recomienda ocultar los menús, en cualquier caso.
